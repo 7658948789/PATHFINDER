@@ -1,0 +1,5 @@
+streamlit
+genai
+PyPDF2
+plotly
+fpdf
